@@ -1,1 +1,1 @@
-基于GPUImage自定义相机
+NGCamera基于GPUImage的自定义相机
