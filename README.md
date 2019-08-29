@@ -1,3 +1,3 @@
 NGCamera
-------------------
-NGCamera基于GPUImage的自定义相机
+
+NGCamera是一款基于GPUImage框架的自定义相机
