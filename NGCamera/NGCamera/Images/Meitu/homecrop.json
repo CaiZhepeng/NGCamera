@@ -1,0 +1,31 @@
+[{
+    "name": "1:1",
+    "icon": "icon_ratio_11_white",
+    "value": 1,
+    "type":  1
+},
+{
+    "name": "3:4",
+    "icon": "icon_ratio_34_white",
+    "value": 1.33,
+    "type":  2
+},
+{
+    "name": "9:16",
+    "icon": "icon_ratio_916_white",
+    "value": 1.78,
+    "type":  3
+},
+{
+    "name": "4:3",
+    "icon": "icon_ratio_43_white",
+    "value": 0.75,
+    "type":  4
+},
+{
+    "name": "5:4",
+    "icon": "icon_ratio_54_white",
+    "value": 0.8,
+    "type":  5
+}
+]

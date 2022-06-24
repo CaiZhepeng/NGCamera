@@ -1,0 +1,73 @@
+[{
+    "name": "亮度",
+    "normalImage": "icon_brightness_a",
+    "selectedImage": "icon_brightness_b",
+    "value": 0.0,
+    "minimumValue": -0.5,
+    "maximumValue": 0.5,
+    "type":  0
+},
+{
+    "name": "对比度",
+    "normalImage": "icon_contrast_a",
+    "selectedImage": "icon_contrast_b",
+    "value": 1.0,
+    "minimumValue": 0.2,
+    "maximumValue": 1.8,
+    "type":  1
+},
+{
+    "name": "色温",
+    "normalImage": "icon_colourTemperature_a",
+    "selectedImage": "icon_colourTemperature_b",
+    "value": 5000,
+    "minimumValue": 2500,
+    "maximumValue": 7500,
+    "type":  2
+},
+{
+    "name": "饱和度",
+    "normalImage": "icon_saturation_a",
+    "selectedImage": "icon_saturation_b",
+    "value": 1.0,
+    "minimumValue": 0.0,
+    "maximumValue": 2.0,
+    "type":  3
+},
+{
+    "name": "高光",
+    "normalImage": "icon_hightLight_a",
+    "selectedImage": "icon_hightLight_b",
+    "value": 0.5,
+    "minimumValue": 0.0,
+    "maximumValue": 1.0,
+    "type":  4
+},
+{
+    "name": "暗部",
+    "normalImage": "icon_shade_a",
+    "selectedImage": "icon_shade_b",
+    "value": 0.5,
+    "minimumValue": 0.0,
+    "maximumValue": 1.0,
+    "type":  5
+},
+{
+    "name": "曝光",
+    "normalImage": "icon_fillinlight_a",
+    "selectedImage": "icon_fillinlight_b",
+    "value": 0.0,
+    "minimumValue": -2.0,
+    "maximumValue": 2.0,
+    "type":  6
+},
+{
+    "name": "锐角",
+    "normalImage": "icon_edit_sharp_a",
+    "selectedImage": "icon_edit_sharp_b",
+    "value": 0.0,
+    "minimumValue": -1.0,
+    "maximumValue": 1.0,
+    "type":  7
+},
+]

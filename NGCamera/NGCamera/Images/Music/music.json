@@ -1,0 +1,31 @@
+{
+    "music": [{
+      "audio": "audio01",
+      "icon": "music01",
+      "name": "皮皮虾我们走"
+    }, {
+      "audio": "audio02",
+      "icon": "music02",
+      "name": "Grass Studio"
+    }, {
+      "audio": "audio03",
+      "icon": "music03",
+      "name": "可惜不是你"
+    }, {
+      "audio": "audio04",
+      "icon": "music04",
+      "name": "岁月神偷"
+    }, {
+      "audio": "audio05",
+      "icon": "music05",
+      "name": "稻香"
+    }, {
+      "audio": "audio06",
+      "icon": "music06",
+      "name": "Glad You Came"
+    }, {
+      "audio": "audio07",
+      "icon": "music07",
+      "name": "我好想你"
+    }]
+}

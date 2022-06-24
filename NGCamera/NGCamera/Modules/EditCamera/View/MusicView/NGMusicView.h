@@ -1,0 +1,22 @@
+//
+//  NGMusicView.h
+//  NGCamera
+//
+//  Created by caizhepeng on 2020/4/25.
+//  Copyright © 2020 caizhepeng. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface NGMusicView : UIView
+
+@property (nonatomic,copy) void(^editTheOriginaSwitch)(BOOL isON);
+@property (nonatomic,copy) void(^musicClick)(NSString *audioPath);
+
+- (void)reloadData;
+
+@end
+
+NS_ASSUME_NONNULL_END

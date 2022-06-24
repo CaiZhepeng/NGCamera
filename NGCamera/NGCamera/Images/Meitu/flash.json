@@ -1,0 +1,22 @@
+[{
+    "name": "闪光灯关闭",
+    "icon": "icon_no_flash_btn",
+    "type": 1
+},
+{
+    "name": "自动闪关灯",
+    "icon": "icon_auto_flash_btn",
+    "type": 2
+    
+},
+{
+    "name": "闪光灯开启",
+    "icon": "icon_always_flash_btn",
+    "type": 3
+    
+},
+{
+    "name": "手电筒",
+    "icon": "icon_torch_flash_btn",
+    "type": 4
+}]

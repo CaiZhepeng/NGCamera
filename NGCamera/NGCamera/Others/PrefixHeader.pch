@@ -1,0 +1,33 @@
+//
+//  PrefixHeader.pch
+//  NGCamera
+//
+//  Created by caizhepeng on 2019/9/2.
+//  Copyright © 2019 caizhepeng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "NGObjcSugar.h"
+#import "GPUImage.h"
+#import "GPUImageFourInputFilter.h"
+
+#pragma mark - 屏幕高宽与比例
+#define kMainScreenHeigth   [UIScreen mainScreen].bounds.size.height
+#define kMainScreenWidth    [UIScreen  mainScreen].bounds.size.width
+
+#pragma mark - 默认高度
+#define kCameraViewHeight   ((kMainScreenWidth)*(4.0f/3.0f))
+
+#pragma mark -由角度转换弧度
+#define kDegreesToRadian(x)      (M_PI * (x) / 180.0)
+
+#pragma mark -由弧度转换角度
+#define kRadianToDegrees(radian) (radian * 180.0) / (M_PI)
+
+#pragma mark - 弱引用
+#define WeakSelf(type)      __weak typeof(type) weak##type = type
+#define StrongSelf(type)    __strong typeof(type) type = weak##type
+
+#endif /* PrefixHeader_pch */

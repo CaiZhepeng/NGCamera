@@ -1,0 +1,67 @@
+[{
+    "name": "自由",
+    "normalImage": "icon_clipScaleAny_a",
+    "selectedImage": "icon_clipScaleAny_b",
+    "type":  1
+},
+{
+    "name": "1:1",
+    "normalImage": "icon_clipScale11_a",
+    "selectedImage": "icon_clipScale11_b",
+    "type":  2
+},
+{
+    "name": "2:3",
+    "normalImage": "icon_clipScale23_a",
+    "selectedImage": "icon_clipScale23_b",
+    "type":  3
+},
+{
+    "name": "3:2",
+    "normalImage": "icon_clipScale32_a",
+    "selectedImage": "icon_clipScale32_b",
+    "type":  4
+},
+{
+    "name": "3:4",
+    "normalImage": "icon_clipScale34_a",
+    "selectedImage": "icon_clipScale34_b",
+    "type":  5
+},
+{
+    "name": "4:3",
+    "normalImage": "icon_clipScale43_a",
+    "selectedImage": "icon_clipScale43_b",
+    "type":  6
+},
+{
+    "name": "16:9",
+    "normalImage": "icon_clipScale169_a",
+    "selectedImage": "icon_clipScale169_b",
+    "type":  7
+},
+{
+    "name": "",
+    "normalImage": "btn_flip_leftright_a",
+    "selectedImage": "btn_flip_leftright_b",
+    "type":  8
+},
+{
+    "name": "",
+    "normalImage": "btn_flip_updown_a",
+    "selectedImage": "btn_flip_updown_b",
+    "type":  9
+},
+{
+    "name": "",
+    "normalImage": "btn_img_rotate_left_a",
+    "selectedImage": "btn_img_rotate_left_b",
+    "type":  10
+},
+{
+    "name": "",
+    "normalImage": "btn_img_rotate_right_a",
+    "selectedImage": "btn_img_rotate_right_b",
+    "type":  11
+}
+]

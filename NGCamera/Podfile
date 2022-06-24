@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+
+target 'NGCamera' do
+  pod 'GPUImage'
+  pod 'Masonry'
+  pod 'YYModel'
+  pod 'AFNetworking'
+  pod 'SDWebImage'
+  pod 'MBProgressHUD'
+  pod 'TZImagePickerController'
+end
