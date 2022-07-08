@@ -16,5 +16,5 @@ NGCamera是一款基于GPUImage框架的自定义相机
 
 • 实现编辑图片或短视频时可撤回与保存
 
- ![image](https://upload-images.jianshu.io/upload_images/3524429-35c2d94aab1a474d.png?imageMogr2/auto-orient/strip|imageView2/2/w/750/format/webp)
+ ![image](https://upload-images.jianshu.io/upload_images/3524429-6ac86c412347a68a.png?imageMogr2/auto-orient/strip|imageView2/2/w/350/format/webp)
  
