@@ -15,5 +15,6 @@ NGCamera是一款基于GPUImage框架的自定义相机
 • 实现短视频添加背景音乐
 
 • 实现编辑图片或短视频时可撤回与保存
- ![image]https://github.com/CaiZhepeng/NGCamera/blob/master/1.png
+
+ ![image](https://github.com/CaiZhepeng/NGCamera/blob/master/1.png)
  
